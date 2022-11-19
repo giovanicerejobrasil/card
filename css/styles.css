@@ -67,3 +67,16 @@
     bottom: 3rem;
 }
 
+.card .icons {
+    display: flex;
+    color: #ffffff;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 10px;
+    bottom: 120px;
+}
+
+.card .icons i {
+    padding: 0 7px;
+}
+
